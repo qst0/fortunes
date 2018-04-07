@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Consider gain and loss, but never be greedy and everything will be all right.
 You are skilled at expressing yourself and effecting change.
 The truth always shines through
 Soon you will receive plesant news
