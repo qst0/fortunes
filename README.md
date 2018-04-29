@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Changes of glamour and excitement are coming to you.
 You will spend many years in comfort and material wealth.
 You are a bundle of energy always on the go.
 Pay for what you want. But work for the things you need.
