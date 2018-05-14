@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+You love the thrill of showmanship and display.
 People find it difficult to resist your persuasive manner.
 Pray for what you want. But work for the things you need.
 Share your abundant humor with others.
