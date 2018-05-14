@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Pray for what you want. But work for the things you need.
 Share your abundant humor with others.
 Your personality is fueled by the fascination you feel for life.
 Make time for a relaxing vacation.
@@ -66,7 +67,7 @@ The near future holds a gift of contentment.
 You will soon embark on a business venture.
 Pick a path with heart.
 No one can walk backwards into the future.
-Happiness is not pleasure, it's victory.
+F is not pleasure, it's victory.
 A calm sea does not make a skilled sailor.
 Book lovers never go to bed alone.
 It takes courage to grow up and turn out to be who you really are.
