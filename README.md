@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Share your abundant humor with others.
 Your personality is fueled by the fascination you feel for life.
 Make time for a relaxing vacation.
 Changes of glamour and excitement are coming to you.
