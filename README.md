@@ -4,6 +4,8 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+All the answers you need are right there in front of you.
+Others will provide you with a wonderful journey.
 You love the thrill of showmanship and display.
 People find it difficult to resist your persuasive manner.
 Pray for what you want. But work for the things you need.
