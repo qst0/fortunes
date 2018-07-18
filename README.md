@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+A letter of great importance may reach you any day now.
 All the answers you need are right there in front of you.
 Others will provide you with a wonderful journey.
 You love the thrill of showmanship and display.
@@ -98,8 +99,18 @@ The lucky numbers, sources, and other tidbits are not included.
 
 > Q: How come you have such a vast fortune?
 
-> A: Fried Rice is so good.
+> A: Fried Rice is so good. (I've also find quite a few on the ground)
+
+> Q: What will become of this repo as time passes?
+
+> A: The crystal ball says ask again later and that it might become an API.
+
+> Q: Tell me the future!
+
+> A: "The price of meat has just gone up-- And your old lady has just gone down" -- F. Zappa
 
 If you are interested in learning more about my fortune of fortunes, or have any issue, please leave a issue.
+
+If you have fortunes you don't see you would like to see added, please fork and send a pull request.
 
 or feel free to email `msnyng+fortunes@gmail.com`
