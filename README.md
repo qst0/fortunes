@@ -4,6 +4,11 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Could I get some directions? ("To Where?") To your heart.
+Be careful or you could fall for some tricks today.
+Creative energy is up - capitalize on it.
+Courtesy pays.
+Courtesy begins in the home.
 A letter of great importance may reach you any day now.
 All the answers you need are right there in front of you.
 Others will provide you with a wonderful journey.
