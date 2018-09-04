@@ -5,7 +5,6 @@ Here is a collection of the words I've found on small bits of paper:
 
 ```
 Could I get some directions? ("To Where?") To your heart.
-Be careful or you could fall for some tricks today.
 Creative energy is up - capitalize on it.
 Courtesy pays.
 Courtesy begins in the home.
@@ -33,7 +32,7 @@ Everyone has someone to love.
 You will soon be crossing great waters on a fun vacation.
 A pleasant experience is ahead: don't pass it by.
 The best exercise for the heart is to reach down and help someone up.
-Be careful or you could fall for some tricks today.
+Be careful or you could fall for some tricks today. [x2]
 Prosperity is a way of living and thinking, and not just having money or things.
 One who admires you greatly is hidden before your eyes.
 Stop searching forever, happiness is just next to you.
