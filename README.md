@@ -4,6 +4,9 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+A refreshing change is in your future.
+If you think nobody cares you are alive, try missing a couple of car payments.
+A vivid and creative mind is just one of your many great attributes.
 Could I get some directions? ("To Where?") To your heart.
 Creative energy is up - capitalize on it.
 Courtesy pays.
