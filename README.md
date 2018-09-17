@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Now is the time to try something new.
 A refreshing change is in your future.
 If you think nobody cares you are alive, try missing a couple of car payments.
 A vivid and creative mind is just one of your many great attributes.
