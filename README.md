@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Deeds done in secret have a way of becoming found out.
 Now is the time to try something new.
 A refreshing change is in your future.
 If you think nobody cares you are alive, try missing a couple of car payments.
