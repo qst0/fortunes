@@ -4,6 +4,17 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Knowledge is priceless.
+Always remember where you are going and never forget where you've been.
+Character is who you are when no one is watching.
+Declare peace every day.
+Condidence is a high.
+As every thread of gold is valuable, so is every moment of time.
+Compromise is always wrong if it means sacrificing a principle.
+Digital circuits are made from analog parts.
+Strong lives are motivated by dynamic purposes.
+Enjoy what you have, hope for what you lack.
+If the cake is bad, what good is the frosting?
 Deeds done in secret have a way of becoming found out.
 Now is the time to try something new.
 A refreshing change is in your future.
