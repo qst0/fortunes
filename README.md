@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+You will always have good luck in your personal affairs.
 You will have good luck in your personal affairs.
 Knowledge is priceless.
 Always remember where you are going and never forget where you've been.
