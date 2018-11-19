@@ -4,6 +4,7 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+Confucious say: top of ladder nice place... can be very lonesome.
 You will always have good luck in your personal affairs.
 You will have good luck in your personal affairs.
 Knowledge is priceless.
