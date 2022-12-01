@@ -4,6 +4,9 @@ A fortune of fortunes.
 Here is a collection of the words I've found on small bits of paper:
 
 ```
+You will be spending time outdoors, in the mountains, near water.
+The only limits to the possibilities in your life tomorrow are the buts you use today.
+If it is meant to be, who are you to change that. Time to believe it.
 Confucious say: top of ladder nice place... can be very lonesome.
 You will always have good luck in your personal affairs.
 You will have good luck in your personal affairs.
