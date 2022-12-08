@@ -1,5 +1,7 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
+app.use(cors());
 const fortunes = [
     "You will be spending time outdoors, in the mountains, near water.",
     "The only limits to the possibilities in your life tomorrow are the buts you use today.",
